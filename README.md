@@ -2,6 +2,8 @@
 
 Read and explore Kagi News articles and sources seamlessly in Raycast.
 
+<a href="https://www.raycast.com/mickaphd/kagi-news" title="Install kagi-news Raycast Extension"><img src="https://www.raycast.com/mickaphd/kagi-news/install_button@2x.png?v=1.1" height="64" style="height: 64px;" alt="" /></a>
+
 ## Features
 
 - Ask Kagi News questions directly in Raycast AI (@Kagi News): browse a category or search across all dates in natural language.  
